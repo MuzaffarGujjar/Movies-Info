@@ -1,3 +1,3 @@
 # Movies Info 
-Movies Info in HTML CSS and JAVASCRIPT
+Movies Info App in HTML CSS and JAVASCRIPT
 Must Try
